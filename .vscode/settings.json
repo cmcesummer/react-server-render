@@ -1,5 +1,4 @@
 {
-    "prettier.printWidth": 160,
     "liveServer.settings.root": "/dist/",
     "search.exclude": {
         "**/node_modules": true,
@@ -22,7 +21,6 @@
     },
     "editor.detectIndentation": false,
     "editor.smoothScrolling": true,
-    "prettier.tabWidth": 4,
     "editor.formatOnSave": true,
     "fileheader.Author": "cmce",
     "emmet.includeLanguages": {
